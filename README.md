@@ -4,6 +4,10 @@ Atuo na liderança técnica e no desenvolvimento de instrumentação científica
 
 I work in technology leadership and development at MilpaTec, connecting electronics, prototyping, embedded systems and data for research, education and environmental monitoring.
 
+## Portfólio
+
+[Conheça meu trabalho e os projetos selecionados](https://jvsdutra.github.io/) · [Projetos / Selected projects](https://jvsdutra.github.io/projects/)
+
 ## Projeto em destaque
 
 ### [Bootcamp de Open Hardware](https://github.com/JVSDutra/Bootcamp_Open_Hardware)
