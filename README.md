@@ -16,6 +16,8 @@ Fork público do repositório do [FabLab Casa Firjan](https://github.com/fablabc
 
 Minha contribuição documentada ao projeto upstream foi uma alteração pontual no README do detector de CO₂, no [PR #4](https://github.com/fablabcasafirjan/Open_Hardware/pull/4). O fork mantém créditos e histórico dos materiais de origem.
 
-## Contato
+## Projetos vinculados à MilpaTec
+
+No contexto de Bora Fazer, o projeto Futucar desenvolveu instrumentos didáticos como o **Fotucômetro** e o **EscolAr** (medidor de qualidade do ar). Ainda não há repositórios públicos dedicados para consulta desses projetos.\n\n## Contato
 
 Use as opções de contato disponíveis neste perfil do GitHub.
