@@ -22,4 +22,4 @@ No contexto de Bora Fazer, o projeto Futucar desenvolveu instrumentos didáticos
 
 ## Contato
 
-Use as opções de contato disponíveis neste perfil do GitHub.
+[Instagram](https://www.instagram.com/bonedaunimedjoao/) · [LinkedIn](https://www.linkedin.com/in/jvsoudu/) · [GitHub](https://github.com/JVSDutra) · [Portfólio](https://jvsdutra.github.io/)
