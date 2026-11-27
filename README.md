@@ -10,11 +10,11 @@ I work in technology leadership and development at [@MilpaTec](https://github.co
 
 ## Open Hardware
 
-### [Projetos do acervo @fablabcasafirjan/Open_Hardware](https://github.com/JVSDutra/Bootcamp_Open_Hardware)
+### Colaborador do [Open Hardware da Casa Firjan](https://github.com/fablabcasafirjan/Open_Hardware)
 
-Meu fork pessoal organiza os materiais públicos de quatro protótipos: microscópio automatizado, detector de CO₂, incubadora e turbidímetro. O acervo reúne listas de materiais, desenhos, sketches Arduino e imagens em níveis diferentes de documentação. A presença de arquivos não representa validação de montagem ou desempenho.
+Colaboro no repositório do FabLab Casa Firjan, com quatro protótipos didáticos: incubadora/estufa, turbidímetro, medidor de CO₂ e microscópio automatizado. Planejei os equipamentos com Willian Barela e Ricardo Michel e os construí em consulta com os dois. Em 2026, contribuí com a [reorganização da documentação e ajustes nos firmwares](https://github.com/fablabcasafirjan/Open_Hardware/pull/23).
 
-Os créditos e o histórico do [repositório upstream](https://github.com/fablabcasafirjan/Open_Hardware) permanecem preservados. Minha contribuição documentada ao upstream foi uma alteração pontual no README do detector de CO₂, registrada no [PR #4](https://github.com/fablabcasafirjan/Open_Hardware/pull/4); isso não implica autoria exclusiva dos protótipos.
+I contribute to Casa Firjan's Open Hardware repository, with four educational prototypes: an incubator, a turbidimeter, a CO₂ meter and an automated microscope.
 
 ## Projetos vinculados à MilpaTec
 
